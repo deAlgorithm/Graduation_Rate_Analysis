@@ -47,15 +47,11 @@ From the imported dataset, the dataframe consists of the following columns:
 Provide instructions on how to clone, install dependencies, and run your code locally. For example:
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/graduation-rate-analysis.git
+   git clone https://github.com/deAlgorithm/graduation-rate-analysis.git
    ```
 2. Install dependencies:
    ```
    pip install -r requirements.txt
-   ```
-3. Run the analysis:
-   ```
-   python analyze_graduation_data.py
    ```
 ## Key Questions Answered
 1. **What is the average ACT composite score and SAT total score of students?**
