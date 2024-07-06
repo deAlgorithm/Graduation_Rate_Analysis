@@ -3,7 +3,7 @@
 ![people](https://github.com/deAlgorithm/graduation_rate/assets/131563995/a7dc781b-ae83-4295-9d01-c0387b363754)
 
 
-This dataset can be downloaded <a href="#"> Here </a>
+This dataset can be downloaded <a href="https://github.com/deAlgorithm/graduation_rate/blob/main/notebook.ipynb"> Here </a>
 
 # Graduation Rate Dataset Analysis
 
