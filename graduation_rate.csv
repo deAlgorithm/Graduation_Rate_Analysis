@@ -1,0 +1,1001 @@
+ACT composite score,SAT total score,parental level of education,parental income,high school gpa,college gpa,years to graduate
+22,1625,high school,40999,3,3.1,7
+29,2090,associate's degree,75817,4,3.4,5
+30,2188,bachelor's degree,82888,4,3.9,3
+33,2151,associate's degree,93518,4,3.7,5
+29,2050,associate's degree,79153,4,3.4,6
+28,1976,master's degree,100048,3.8,3.5,4
+29,2097,some college,46883,4,3.4,6
+30,1976,some college,67379,3.7,3.4,5
+27,2072,bachelor's degree,102424,3.9,3.9,4
+32,2246,bachelor's degree,56793,4,3.6,3
+28,1956,associate's degree,66110,3.6,3.4,5
+28,2006,some high school,56590,3.7,3.1,5
+25,1868,bachelor's degree,87574,3.4,3.1,5
+27,1955,some college,75111,3.4,3.3,6
+27,1873,bachelor's degree,93342,3.5,3.7,3
+31,2029,high school,47947,4,3.7,4
+25,1779,associate's degree,77493,3.3,3.3,7
+31,2110,some college,65866,4,3.5,4
+27,1996,high school,45824,3.6,3.1,6
+31,2156,bachelor's degree,74254,4,3.4,6
+33,2234,high school,71657,4,3.9,3
+24,1824,associate's degree,72319,3.3,3.2,6
+26,1810,some college,81527,3.4,3.2,5
+26,1914,some college,64410,3.6,3.5,3
+25,1866,some college,63514,3.3,3.4,7
+28,1928,high school,54938,3.6,3.3,4
+25,1842,high school,72810,3.3,3.3,4
+26,1846,associate's degree,77274,3.5,3.3,4
+24,1800,some high school,62857,3.3,3.2,4
+28,1952,bachelor's degree,59674,3.7,3.1,4
+30,2080,master's degree,96140,4,3.9,4
+26,1784,some college,68573,3.2,3.3,4
+29,1913,some college,75011,3.6,3.3,4
+31,2101,master's degree,75001,4,3.6,4
+31,2028,high school,55451,3.9,3.2,5
+24,1707,some college,65352,3.2,2.9,5
+27,1951,associate's degree,51677,3.8,3.2,4
+28,2042,some college,79886,3.9,3.3,4
+28,1898,high school,54004,3.5,3.3,4
+32,2109,some college,67094,4,3.4,4
+29,2031,master's degree,106538,3.7,3.3,6
+27,1935,some college,62701,3.7,3.4,4
+24,1849,some high school,57021,3.3,3.2,5
+24,1828,associate's degree,70581,3.3,3.1,6
+32,2121,some college,50679,4,3.1,5
+28,1956,associate's degree,63320,3.6,3,5
+29,2068,master's degree,69164,4,3.6,4
+25,1801,some college,57119,3.3,3.5,5
+24,1760,some college,78288,3.2,3.4,3
+32,2275,master's degree,104758,4,4,3
+30,2129,bachelor's degree,100085,4,3.4,4
+27,1855,associate's degree,99168,3.3,3.1,5
+26,1966,some college,89016,3.6,3.4,7
+28,2080,bachelor's degree,70882,3.9,3.3,4
+31,2123,some college,79271,4,3.8,5
+31,2229,bachelor's degree,78379,4,3.5,6
+22,1717,high school,30058,3,2.9,9
+26,1868,some high school,61856,3.6,3.2,4
+32,2208,bachelor's degree,98261,4,3.9,3
+31,2054,some college,80375,3.9,3.2,5
+27,1807,some high school,59362,3.2,3.1,4
+27,1991,some college,68616,3.7,3.7,3
+29,1874,some high school,32290,3.7,3.2,6
+33,2194,associate's degree,75808,4,3.2,5
+29,1947,some college,81062,3.7,3.3,8
+23,1641,some high school,46539,2.9,3.1,5
+25,1835,some high school,71287,3.5,3.1,9
+24,1878,high school,32558,3.2,3.1,7
+31,2096,associate's degree,85614,4,3.6,5
+26,1905,some college,77822,3.6,3.4,6
+29,2049,some college,54889,3.8,3.5,5
+28,2085,associate's degree,56238,3.9,3.3,5
+30,2069,associate's degree,57088,3.9,3.5,6
+29,1974,some high school,45734,3.7,3.1,6
+27,1697,high school,61105,3.2,3.4,4
+30,2003,high school,37407,3.9,3.2,5
+32,2154,bachelor's degree,97216,4,3.5,4
+31,2303,bachelor's degree,71074,4,3.7,3
+29,2018,high school,65630,3.8,3.3,7
+28,1942,high school,73605,3.5,3.4,4
+35,2294,bachelor's degree,82854,4,3.5,5
+28,1981,some college,55058,3.8,3.5,3
+26,1823,some high school,50215,3.2,3.1,4
+34,2309,associate's degree,82318,4,3.7,5
+29,1878,some college,59498,3.6,3.5,3
+31,2003,high school,57031,3.9,3.2,5
+25,1839,high school,40535,3.3,3.3,5
+27,1965,some high school,64972,3.6,3.3,5
+31,2111,some high school,42677,4,3.4,6
+29,1960,high school,41021,3.7,3.5,5
+26,1775,some college,57070,3.4,3.4,3
+26,2027,associate's degree,75587,3.8,3.5,4
+29,2213,master's degree,62673,4,3.3,4
+28,1920,associate's degree,91846,3.6,3,5
+29,2069,some college,98439,3.8,3.8,3
+30,2014,high school,67978,3.8,3.6,6
+25,1776,high school,69155,3.1,2.8,5
+24,1822,associate's degree,51659,3.5,3,9
+29,2014,master's degree,64132,3.9,3.3,4
+29,2000,some college,81137,3.7,3.4,4
+28,1957,some high school,56604,3.6,3.3,6
+29,2142,master's degree,54409,3.9,3.6,3
+27,2024,bachelor's degree,82740,3.7,3.3,4
+34,2330,bachelor's degree,80162,4,3.6,6
+28,1964,some college,66886,3.8,3.4,4
+29,1973,associate's degree,63686,3.7,3.5,4
+31,2145,master's degree,76637,4,3.2,6
+28,2047,bachelor's degree,111565,3.9,3.7,6
+32,2138,high school,51710,4,3.4,4
+29,1984,some high school,70655,3.8,3.5,4
+34,2330,some college,69850,4,3.6,6
+31,2062,associate's degree,60588,4,3.3,4
+28,2026,master's degree,80678,3.9,3.3,7
+29,2081,bachelor's degree,69070,4,3.3,4
+24,1794,some college,63960,3.4,3.5,3
+30,2108,master's degree,101757,4,3.4,5
+27,1856,high school,58081,3.4,3.3,6
+27,1802,some high school,52986,3.4,3.5,7
+28,2014,bachelor's degree,70446,3.8,3.2,5
+28,2079,master's degree,96811,4,3.3,7
+30,1997,some high school,65028,3.8,3.5,6
+23,1710,some college,74896,3.1,3.4,6
+31,2067,associate's degree,85063,4,3.8,3
+32,2050,some high school,30030,3.9,3.1,6
+30,2099,associate's degree,70238,4,3.6,7
+25,1746,high school,62617,3.2,3.4,4
+28,1961,associate's degree,92044,3.7,3.2,7
+31,2086,some college,79089,3.9,3.7,5
+34,2327,master's degree,85855,4,3.5,4
+32,2083,associate's degree,53867,4,3.2,6
+33,2354,associate's degree,67698,4,3.7,4
+31,2007,some college,76363,4,3.4,7
+32,2098,some high school,58011,3.9,3.3,4
+28,2067,associate's degree,90774,3.8,3.7,3
+22,1662,some high school,51744,2.9,2.7,5
+23,1664,high school,79157,2.9,3.6,3
+28,2038,associate's degree,71289,3.7,3.7,5
+31,2111,some high school,63644,4,3.3,4
+31,2000,high school,40613,3.9,3.2,6
+32,2183,some college,64874,4,3.4,6
+30,2077,high school,46431,3.9,3.1,6
+29,2060,high school,63017,3.9,3.6,5
+28,2064,bachelor's degree,85687,3.9,3.8,5
+30,1988,bachelor's degree,100312,3.9,3.5,4
+27,1878,some college,53253,3.6,3.1,8
+28,1843,some high school,50083,3.5,3.1,6
+28,1901,high school,68974,3.4,3.4,8
+26,1940,some college,80435,3.5,3,8
+29,2011,associate's degree,61318,3.8,3,7
+28,1928,some high school,65130,3.5,3.6,3
+33,2207,some college,63092,4,3.4,4
+23,1724,some high school,54818,3,3.3,3
+29,1970,some high school,76065,3.7,3.3,5
+28,1924,some high school,25052,3.5,3.4,6
+33,2301,master's degree,85959,4,3.4,6
+30,2177,some college,59979,4,3.3,4
+33,2191,some college,67834,4,3.6,4
+26,1775,some college,74739,3.4,3.1,8
+28,2082,some college,75206,3.9,3.1,5
+26,1891,associate's degree,84455,3.3,3.3,5
+26,1873,high school,63728,3.4,3.5,3
+31,2068,associate's degree,70007,4,3.2,6
+28,1979,high school,50078,3.6,3.6,3
+28,1888,some college,80294,3.7,3.4,4
+29,2163,bachelor's degree,111580,4,3.6,7
+30,1981,high school,52113,3.7,3.4,5
+31,2066,master's degree,86211,3.9,3.5,4
+27,1876,high school,69239,3.4,3.6,5
+25,1786,high school,51917,3.3,3.1,4
+29,2071,some college,87462,3.9,3.5,5
+28,2043,some high school,75790,3.7,3.5,4
+29,1966,associate's degree,79421,3.7,3.6,4
+26,1745,high school,58652,3.2,3.3,4
+33,2157,some college,46162,4,3.3,5
+31,2180,master's degree,93940,4,3.5,5
+28,1912,high school,64039,3.6,3.4,6
+31,2049,associate's degree,80808,3.9,3.8,4
+25,1880,some college,34272,3.5,3.3,7
+26,1777,high school,62391,3.2,3.2,5
+31,2051,bachelor's degree,81731,4,3.6,4
+33,2153,associate's degree,74855,4,3.5,5
+24,1772,some high school,45746,3.3,3,5
+27,1982,some college,57364,3.6,3.2,4
+31,2191,master's degree,96879,4,3.7,4
+26,1884,some high school,46347,3.5,3.3,6
+28,1965,high school,70179,3.5,3,8
+26,1922,high school,52687,3.5,3.3,4
+26,1851,some college,56543,3.4,3.5,3
+28,1759,high school,84265,3.3,3.3,4
+32,2148,bachelor's degree,112865,4,3.8,4
+28,1895,some high school,32357,3.7,3.2,5
+26,1955,some college,82047,3.7,3.6,3
+27,1976,some high school,66320,3.8,3.7,3
+22,1738,some college,89734,3.1,3.1,5
+32,2188,some college,88846,4,3.7,5
+28,1993,master's degree,83385,3.6,3.4,7
+30,2079,master's degree,91867,4,3.8,3
+28,2028,some college,46390,3.8,3.4,6
+30,2001,some college,87667,3.8,3.5,5
+27,1881,high school,50248,3.4,3.1,4
+27,1897,some college,70152,3.6,3.6,3
+31,2133,some college,72536,4,3.2,5
+27,1859,some college,83756,3.4,2.9,5
+31,2031,associate's degree,54082,4,3.7,6
+30,2101,bachelor's degree,71340,4,3.1,8
+26,1921,high school,89368,3.4,3.4,4
+30,2167,bachelor's degree,72606,4,3.8,6
+29,1906,some high school,59743,3.7,3.3,8
+31,2106,master's degree,76544,4,3.2,5
+27,1894,some college,65880,3.6,3.3,4
+31,2158,some high school,22191,4,3.4,6
+28,1941,some college,73652,3.6,3.4,5
+33,2078,some college,59329,4,3.3,4
+31,2105,some high school,41372,4,3.3,6
+28,1925,some high school,55335,3.6,3.5,3
+26,1892,high school,68167,3.4,3.2,7
+24,1799,some high school,50326,3.2,3.2,4
+31,2214,some college,75645,4,3.8,3
+27,2024,some college,61769,3.8,3.3,5
+26,1954,high school,43384,3.5,3.3,5
+28,1928,associate's degree,94921,3.6,3.6,6
+27,1918,high school,64682,3.5,3.6,3
+25,1772,high school,49063,3.1,3,5
+27,1961,some high school,32992,3.6,3.3,5
+30,2105,master's degree,96412,3.9,3.6,4
+27,1823,high school,60404,3.3,3.4,8
+34,2211,some college,72022,4,3.5,4
+30,2079,high school,46946,3.8,3.4,5
+22,1715,some high school,83495,3,3.1,4
+27,1933,high school,52021,3.5,3.3,5
+30,2106,some high school,51653,3.9,3.6,3
+29,2091,some college,51426,3.9,3.7,4
+27,1894,bachelor's degree,88103,3.5,3,6
+27,1909,some high school,49781,3.6,3.2,5
+26,1898,associate's degree,63890,3.4,3.3,4
+25,1707,some high school,72767,3.2,3.4,6
+28,2062,associate's degree,87492,4,3.8,3
+30,2015,high school,70737,3.9,3.8,4
+29,2021,high school,60404,3.9,3.6,4
+23,1749,high school,55410,2.9,3,4
+21,1640,some high school,54847,2.8,3.4,3
+31,2000,some high school,49405,3.8,3.3,5
+27,1903,high school,53437,3.6,3.4,4
+25,1882,some college,71828,3.3,3.2,8
+30,2105,bachelor's degree,84698,4,3.8,3
+31,1989,some college,68788,3.8,3.4,4
+29,1937,some high school,75042,3.6,3.2,5
+32,2139,bachelor's degree,103774,4,4,3
+25,1747,some college,74725,3.2,3.2,5
+34,2172,master's degree,115112,4,3.9,4
+27,1926,high school,68447,3.5,3.3,5
+26,1941,some high school,35481,3.6,3.1,5
+25,1850,some college,54880,3.4,3.1,4
+28,1924,some college,76989,3.7,3.3,4
+30,2101,bachelor's degree,71120,4,3.3,5
+25,1763,some high school,56887,3.2,3.3,4
+32,2156,associate's degree,104360,4,4,3
+32,2279,bachelor's degree,65650,4,3.3,5
+29,1993,high school,61607,3.7,3.4,4
+29,2073,bachelor's degree,86205,4,3.5,5
+26,1833,high school,61853,3.4,3.4,6
+23,1811,high school,53721,3.1,3.3,3
+26,1951,high school,52750,3.6,3.1,5
+31,2174,bachelor's degree,67851,4,3.4,4
+25,1856,associate's degree,84679,3.3,3.3,5
+28,2004,high school,31889,3.6,3.3,5
+28,2109,master's degree,94346,3.8,3.4,4
+31,1985,some high school,72416,3.9,3.4,4
+31,2114,bachelor's degree,70412,4,3.2,5
+28,1958,some high school,49516,3.7,3.3,6
+29,2042,bachelor's degree,113597,4,3.8,3
+29,2001,bachelor's degree,65737,3.7,3.5,4
+29,2031,some college,81633,4,3.4,7
+27,1857,associate's degree,58164,3.4,3.3,6
+29,1965,some college,72052,3.5,3.2,4
+32,2049,high school,79015,4,3.9,3
+30,2038,master's degree,68861,3.9,3.3,6
+24,1840,some college,69606,3.2,3.1,5
+26,1779,some college,66114,3.4,3.1,5
+28,1954,some high school,22892,3.7,3.3,6
+30,2024,high school,41464,3.9,3.2,6
+25,1812,some high school,46645,3.3,3.3,4
+24,1788,some college,68691,3.2,3,6
+29,1988,some college,88421,3.8,3.2,6
+27,2076,bachelor's degree,70671,4,3,5
+27,1863,associate's degree,70826,3.5,3.4,4
+30,2189,bachelor's degree,102665,4,3.9,3
+35,2278,associate's degree,93446,4,3.8,5
+29,2009,bachelor's degree,111894,3.7,3.4,4
+30,2063,high school,46029,3.9,3.4,6
+26,1958,some college,54810,3.6,3.3,6
+35,2296,master's degree,83525,4,3.8,4
+27,1991,master's degree,89224,3.7,3.6,3
+31,2087,associate's degree,71209,4,3.8,7
+29,1997,associate's degree,51380,3.7,3.4,3
+29,2074,high school,39310,3.8,3.1,6
+26,1835,high school,67736,3.3,3.5,3
+28,1999,bachelor's degree,107502,3.9,3.8,3
+28,1893,high school,30293,3.4,3.2,7
+30,2171,bachelor's degree,77054,4,3.5,8
+31,2115,bachelor's degree,100889,4,3.7,4
+25,1816,bachelor's degree,92063,3.4,3,5
+29,2048,some college,70458,3.8,3.4,4
+32,2047,associate's degree,90475,4,3.7,4
+30,1967,some high school,24122,3.7,3.3,8
+30,1970,high school,48860,3.8,3.5,4
+29,2010,associate's degree,72982,3.7,3.6,3
+30,1943,high school,56933,3.6,3.5,3
+34,2296,master's degree,61254,4,3.7,4
+29,1966,high school,66154,3.5,3.4,4
+27,2014,associate's degree,53131,3.7,3.5,3
+25,1729,some high school,22697,3.1,3,5
+28,1833,bachelor's degree,111333,3.5,3.3,7
+27,1986,some college,49942,3.6,3.6,4
+25,1819,some high school,28525,3.2,3,5
+25,1778,some college,81119,3.3,3.2,4
+29,1917,high school,46412,3.7,3.5,4
+33,2266,some college,95279,4,3.6,5
+29,2023,associate's degree,88770,3.8,3.7,3
+24,1781,some college,72460,3.3,3.1,7
+28,1932,high school,32585,3.6,3.1,7
+29,2003,some high school,66611,3.8,3.4,6
+31,2125,bachelor's degree,92900,4,3.2,5
+27,1899,some high school,73054,3.5,3.4,4
+28,1945,bachelor's degree,91741,3.8,3.5,4
+28,1883,some high school,56567,3.5,3.5,3
+28,1927,associate's degree,82803,3.5,3.6,3
+29,1964,high school,76164,3.6,3.3,4
+28,1979,associate's degree,82767,3.8,3.6,4
+28,1995,some high school,45634,3.7,3.2,5
+27,1949,some high school,30833,3.6,3.4,4
+26,1763,high school,38095,3.3,3.3,8
+28,2024,some high school,71050,3.8,3.3,6
+34,2234,high school,41676,4,3.4,9
+27,1809,some college,52098,3.3,3,9
+35,2278,associate's degree,103101,4,3.9,4
+31,2162,some college,92781,4,3.7,4
+27,1979,some high school,69626,3.7,3.5,4
+28,1987,some high school,68928,3.7,3.4,6
+34,2308,master's degree,108832,4,3.9,4
+29,2026,associate's degree,101966,3.7,3.5,5
+32,2186,some college,54361,4,3.5,4
+29,2118,some high school,32963,3.9,3.1,7
+33,2110,high school,70819,4,3.8,3
+32,2037,high school,84231,3.9,3.5,6
+29,2034,associate's degree,58720,4,3.6,5
+26,1883,associate's degree,57927,3.5,3.4,4
+26,1830,high school,33668,3.5,3.5,4
+29,2080,master's degree,89541,4,3.7,3
+29,2021,some high school,33392,3.8,3.5,4
+28,2136,bachelor's degree,80213,4,3.4,4
+25,1831,bachelor's degree,74145,3.4,3.2,4
+26,1975,some high school,37441,3.5,2.9,6
+35,2265,associate's degree,79530,4,3.7,7
+26,1963,master's degree,89885,3.5,3.2,4
+32,2251,bachelor's degree,90652,4,3.8,5
+28,1928,high school,79511,3.7,3.7,3
+24,1801,some college,84588,3.3,3.2,4
+30,2033,bachelor's degree,78168,3.8,3.5,5
+32,2134,master's degree,101832,4,3.6,4
+29,1984,some high school,54859,3.8,3.6,5
+23,1750,some high school,45059,3.1,2.9,6
+27,1909,some college,50764,3.5,3.2,6
+29,1985,associate's degree,83925,3.6,3.5,6
+29,2086,bachelor's degree,82881,4,3.2,5
+27,1896,some college,71634,3.5,3.2,4
+34,2358,associate's degree,83577,4,3.6,4
+28,2097,master's degree,124470,3.9,3.6,7
+28,1988,some college,57703,3.8,3.3,4
+28,2078,some college,91873,3.9,3.5,5
+27,1884,some high school,22932,3.6,3,5
+25,1892,bachelor's degree,72725,3.4,3.3,4
+27,1973,some college,82813,3.5,3.3,4
+28,2064,some college,70783,3.8,3.5,4
+27,1882,associate's degree,67599,3.5,3.3,4
+30,2055,some college,84318,4,3.5,4
+34,2142,some high school,32371,4,3.5,5
+27,1950,high school,89155,3.5,3.2,7
+30,2204,some college,85745,4,3.4,6
+29,2056,some high school,45521,3.8,3.2,5
+27,1873,some college,86540,3.5,3.3,5
+26,1919,some high school,63216,3.5,3.5,4
+33,2198,bachelor's degree,107353,4,3.6,5
+27,1989,bachelor's degree,71910,3.8,3.5,3
+26,1882,some high school,55525,3.4,3.1,5
+32,2090,bachelor's degree,94402,4,3.7,3
+27,1895,high school,56359,3.6,3.3,4
+25,1708,some college,47134,3.2,3,5
+28,1933,high school,44433,3.7,3.1,8
+31,2178,high school,63953,4,3.6,4
+23,1772,some college,62215,3.2,3.3,3
+28,1976,high school,44273,3.7,3.4,5
+30,2046,high school,61291,3.8,3.5,4
+29,1972,some high school,57891,3.8,3.4,4
+30,2014,associate's degree,57454,4,3.1,6
+31,2180,bachelor's degree,54502,4,3.3,4
+34,2342,bachelor's degree,98469,4,3.3,5
+35,2290,bachelor's degree,70541,4,3.9,6
+24,1715,associate's degree,82959,3,3.1,5
+29,1952,some college,70871,3.7,3.5,4
+31,2106,high school,57191,4,3,7
+29,2018,some high school,52651,3.9,3.4,6
+25,1856,some college,76085,3.5,3.6,3
+29,2101,associate's degree,39594,3.9,3.5,4
+31,2152,associate's degree,88339,4,3.4,7
+33,2217,some college,79005,4,3.5,4
+32,2077,high school,62571,4,3.2,5
+30,2138,some college,78231,4,3.5,4
+31,2138,bachelor's degree,69281,4,3.2,5
+27,1875,some high school,39808,3.5,3.3,5
+29,1967,associate's degree,76076,3.8,3.6,6
+28,1945,high school,59708,3.4,3.6,5
+29,2124,some college,92570,4,3.5,6
+27,1800,high school,55685,3.4,3,5
+29,1956,bachelor's degree,84773,3.7,3.3,7
+29,2059,bachelor's degree,66884,3.9,3.3,5
+29,2114,bachelor's degree,100011,4,3.7,7
+28,1855,some high school,30246,3.5,3.2,5
+25,1864,some college,68990,3.2,3,6
+30,2099,some high school,44058,4,3.2,8
+32,2204,some college,61511,4,3.2,5
+32,2266,some college,55909,4,3.4,4
+28,1935,high school,76499,3.6,3.2,5
+24,1685,some high school,42246,3.1,3,6
+30,2102,some high school,38675,3.9,3.4,5
+32,2180,bachelor's degree,72370,4,3.7,4
+28,1934,some high school,64746,3.7,3,5
+27,1923,high school,44380,3.6,3.5,5
+28,2103,master's degree,95091,4,3.7,4
+28,2013,high school,54189,3.7,3.3,4
+29,2113,some college,72302,4,3.5,8
+25,1934,associate's degree,55311,3.4,3.5,3
+32,2222,associate's degree,62214,4,3.4,4
+29,2044,associate's degree,79376,3.8,3.6,8
+27,1974,bachelor's degree,70771,3.5,3,6
+31,2070,bachelor's degree,94779,4,3.5,4
+25,1806,some college,76153,3.4,3.2,4
+26,1771,high school,57030,3.3,3.2,4
+27,1960,high school,47355,3.7,3.3,5
+29,2111,associate's degree,58606,4,3.4,5
+28,1981,high school,68553,3.7,3.4,5
+29,2063,some high school,78554,3.7,3.8,3
+25,1937,some high school,47676,3.6,3.3,5
+28,1989,some high school,79527,3.6,3.3,4
+27,1957,associate's degree,65536,3.7,3.4,4
+30,1992,some high school,66121,3.8,3.2,7
+29,1938,associate's degree,76536,3.7,3.2,8
+31,2146,high school,73118,4,3.3,7
+26,1871,some college,47948,3.4,3.2,5
+32,2132,some college,47343,4,3.6,5
+27,1947,high school,50013,3.6,3.3,5
+31,2072,high school,51642,3.9,3.5,4
+28,2012,some college,66896,3.7,3.6,3
+32,2083,bachelor's degree,89517,4,3.8,4
+22,1598,some college,73060,2.8,3,5
+29,2018,associate's degree,67213,3.7,3.3,4
+30,2060,associate's degree,101694,3.8,3.8,3
+32,2099,some high school,68197,4,3.4,6
+29,2016,some high school,36428,3.8,3.2,5
+29,2095,associate's degree,94662,4,3.9,6
+29,2056,associate's degree,79834,3.9,3.4,4
+27,1970,associate's degree,70870,3.5,3.3,6
+35,2226,high school,81528,4,3.6,4
+29,2041,associate's degree,99695,3.9,3.6,6
+27,1868,some college,56722,3.5,3.3,4
+29,2014,some college,56964,3.9,2.9,9
+24,1888,bachelor's degree,66372,3.4,3.3,4
+24,1733,associate's degree,47323,3.2,2.9,6
+28,1956,associate's degree,62151,3.6,3.4,4
+30,2056,high school,72235,3.9,3.4,5
+32,2136,some college,58269,4,3.7,3
+28,1849,high school,49161,3.4,3.5,5
+32,2170,bachelor's degree,92676,4,3.6,4
+28,1899,high school,60887,3.6,3.4,8
+30,2098,associate's degree,53931,4,3.3,5
+24,1748,some college,89555,3.2,3.4,4
+30,2146,bachelor's degree,102741,4,3.5,4
+30,2087,some college,51943,4,3.3,4
+27,2048,master's degree,89723,3.8,3.3,4
+28,1938,high school,56564,3.5,3.2,8
+27,1978,some college,74675,3.6,3.4,4
+30,2235,bachelor's degree,75686,4,3.5,4
+26,1917,some college,48630,3.5,3.3,5
+31,2086,associate's degree,79405,4,3.8,3
+27,1894,some college,72324,3.6,3.6,3
+26,1969,some high school,57007,3.6,3.2,5
+26,1872,high school,30384,3.4,2.9,6
+28,1914,high school,44890,3.5,3.3,6
+26,2004,bachelor's degree,83394,3.7,3.3,4
+28,2003,bachelor's degree,64362,3.6,3.5,7
+27,1896,some high school,55887,3.6,3.1,7
+28,1897,high school,55399,3.5,3.2,4
+30,1985,some college,81840,3.8,3.5,4
+27,1916,some college,67994,3.5,3.3,4
+32,2328,bachelor's degree,59035,4,3.3,5
+26,1750,some high school,45142,3.2,3.4,4
+30,2018,some high school,58297,3.9,3.3,7
+29,2013,high school,91228,3.7,3.4,4
+32,2075,associate's degree,61446,4,3.4,8
+25,1891,some college,71120,3.4,3.2,4
+30,2014,some college,45340,3.9,3,6
+28,1938,some high school,19452,3.7,2.9,6
+30,2154,high school,59045,4,3.6,4
+32,2111,high school,82362,4,3.8,3
+31,2161,associate's degree,92230,4,3.8,3
+29,2104,some college,81195,4,3.5,4
+29,2042,master's degree,102364,3.9,3.2,7
+25,1854,high school,37021,3.3,2.8,9
+34,2250,master's degree,86656,4,3.2,5
+28,1888,high school,48701,3.7,3.2,5
+27,1931,some college,46610,3.7,3.1,6
+30,2081,associate's degree,71530,3.9,3.6,3
+31,2016,associate's degree,74128,3.9,3.3,5
+29,2018,some college,48783,3.9,3.4,7
+36,2358,master's degree,94092,4,3.7,7
+31,2171,some college,57107,4,3.5,4
+28,2055,associate's degree,75310,3.8,3.7,5
+27,1943,some college,77835,3.7,3.2,9
+24,1791,master's degree,101397,3.2,3.3,4
+28,1925,some high school,49750,3.6,3.3,8
+21,1628,some high school,36769,2.8,3.1,6
+28,2024,bachelor's degree,80024,4,3.3,6
+27,1934,some high school,71045,3.4,3.4,5
+26,1855,associate's degree,76883,3.5,3.5,8
+25,1880,some high school,27165,3.3,3.1,5
+27,1797,some high school,55458,3.3,3.2,4
+33,2222,bachelor's degree,95449,4,3.6,4
+31,2053,bachelor's degree,102696,4,3.6,8
+26,1797,some high school,55366,3.4,3.3,4
+32,2171,associate's degree,76111,4,3.4,5
+26,1888,some high school,42848,3.5,3.3,5
+34,2185,high school,101013,4,3.6,6
+26,2007,some high school,36811,3.7,3.3,8
+32,2165,bachelor's degree,74655,4,3.2,5
+31,2135,associate's degree,79017,4,3.6,4
+31,2024,some college,84826,4,3.7,7
+35,2273,master's degree,93051,4,3.8,5
+27,2016,associate's degree,74430,3.9,3.5,5
+28,1980,some college,59923,3.8,2.9,7
+31,2081,high school,75411,3.9,3.8,4
+25,1852,bachelor's degree,93113,3.4,3.5,4
+29,2058,associate's degree,74172,4,3.4,7
+30,2017,associate's degree,56874,3.9,3.3,4
+28,1954,associate's degree,89951,3.7,3.6,4
+31,2193,associate's degree,85118,4,3.6,8
+34,2192,some college,30934,4,3.5,6
+26,1969,high school,74692,3.7,3,7
+25,1747,some high school,48398,3.2,3.2,5
+27,1945,high school,59506,3.5,3.5,7
+26,1869,bachelor's degree,89105,3.5,3.5,6
+26,1933,some high school,53021,3.6,3.6,4
+29,1991,high school,63309,3.8,3.2,7
+27,1913,some high school,57252,3.6,3.5,3
+29,2049,some high school,59398,3.8,3.4,4
+33,2230,some college,81075,4,3.6,4
+32,2077,some college,77575,4,3.2,8
+28,1971,associate's degree,71186,3.8,3.4,4
+29,2094,master's degree,91724,3.9,3.5,4
+27,1903,some high school,46053,3.5,3.3,5
+28,2120,high school,38167,3.9,3.6,6
+29,2107,some college,42981,3.9,3.2,9
+27,1922,high school,42724,3.5,3.1,6
+31,1998,some high school,72599,3.9,3.1,7
+28,2113,some college,98997,4,3.8,3
+24,1739,some high school,44323,3,2.6,9
+31,2084,master's degree,90239,4,3.5,5
+31,2034,associate's degree,102942,4,3.5,4
+27,1980,high school,53177,3.6,3.1,6
+30,2028,some college,73172,4,3.4,4
+32,2006,associate's degree,73173,4,3.3,6
+28,2001,some college,63108,3.8,3.5,5
+32,2159,some college,59782,4,3.4,4
+28,1933,some high school,50333,3.6,3,5
+28,1960,some high school,25347,3.5,3.1,5
+29,2136,associate's degree,94534,4,3.6,4
+32,2159,associate's degree,58995,4,3.6,4
+29,2021,bachelor's degree,107584,3.7,3.2,6
+28,1895,some high school,46871,3.5,3.3,7
+32,2154,some college,70905,4,3.4,4
+29,2050,associate's degree,49212,4,3.4,8
+30,2079,some college,97216,4,3.7,5
+30,1921,high school,80039,3.7,3.4,8
+28,2094,master's degree,97638,3.9,3.6,6
+22,1764,some high school,28149,3,3.1,5
+30,2041,some college,67357,3.8,3.2,5
+32,2141,some college,68337,4,3.6,4
+25,1958,associate's degree,65779,3.4,3.4,5
+30,2171,bachelor's degree,82445,4,3.5,6
+31,2109,high school,20293,3.9,3.3,5
+23,1765,high school,63831,3.2,3,9
+23,1621,high school,51278,3,3.1,5
+27,1864,some high school,69211,3.3,3.1,4
+27,1893,some college,56630,3.3,3.2,4
+28,2017,some college,62150,3.8,3.2,4
+26,1832,some high school,28863,3.3,3,6
+28,1976,some high school,47700,3.6,3.1,7
+33,2279,bachelor's degree,73979,4,3.5,4
+28,1869,some high school,61208,3.3,3.1,4
+26,1934,some college,75008,3.6,3.2,5
+27,1952,some college,97194,3.5,3.4,4
+25,1851,some college,68296,3.4,3.1,5
+29,1979,associate's degree,74620,3.8,3.5,4
+22,1711,some college,65491,2.9,3.1,6
+30,2120,some college,75846,4,3.3,6
+27,1924,associate's degree,82191,3.6,3.5,4
+33,2248,associate's degree,66233,4,3.7,6
+31,2037,associate's degree,59896,3.9,3.3,4
+29,2041,some high school,61264,3.8,3.6,6
+27,2010,associate's degree,64341,3.7,3.3,5
+31,2079,bachelor's degree,70454,3.9,3.6,3
+28,1982,associate's degree,69881,3.7,3.6,3
+25,1758,some high school,46564,3.2,2.8,6
+28,1961,some college,75540,3.8,3.2,6
+27,1959,some high school,54414,3.7,3.6,3
+29,1981,some college,83983,3.8,3.7,5
+30,2027,some college,35814,3.7,3.2,9
+30,1991,high school,78999,3.8,3.4,9
+26,1758,some college,54200,3.3,3.3,4
+28,2085,bachelor's degree,87107,3.8,3.4,4
+27,1813,some high school,41688,3.3,3.1,5
+32,2126,master's degree,79024,4,3.7,3
+23,1702,high school,53472,3,2.9,5
+25,1843,some high school,73667,3.2,3.2,4
+28,1941,associate's degree,54945,3.7,3.5,3
+31,2051,master's degree,85519,4,3.6,4
+30,2017,some high school,79680,3.9,3.8,5
+24,1805,some college,69015,3.3,3.5,3
+27,1902,high school,71504,3.5,3.7,3
+24,1820,some college,73259,3.2,3.5,4
+25,1816,some high school,65988,3.3,2.9,5
+25,1749,some high school,45852,3.1,3.3,4
+27,1990,master's degree,112869,3.7,3.7,4
+33,2224,master's degree,91722,4,4,3
+31,2121,master's degree,72604,4,3.6,5
+27,1860,some high school,43246,3.5,3.3,6
+28,1941,some high school,72922,3.6,3.5,4
+24,1772,high school,30363,3.1,2.8,7
+34,2198,associate's degree,56683,4,3.7,3
+30,1996,bachelor's degree,74939,3.9,3.3,4
+28,2043,some college,57005,3.7,3.4,5
+31,2056,some college,79877,4,3.3,5
+36,2270,associate's degree,50569,4,3.7,3
+30,2093,associate's degree,83434,3.9,3.5,4
+30,1951,high school,57537,3.8,3.4,6
+29,1944,some college,97086,3.8,3.4,4
+27,2023,bachelor's degree,48266,3.9,3.2,8
+23,1806,some high school,86335,3.2,3.4,7
+29,2015,high school,60620,3.8,3.3,8
+29,1939,associate's degree,81465,3.8,3.5,4
+27,1828,high school,40029,3.4,3,6
+31,2200,some high school,53254,4,3.7,3
+27,2051,some high school,38891,3.7,3.5,5
+27,1877,some college,65190,3.6,3,6
+31,2173,associate's degree,104267,4,3.5,6
+26,2015,some college,79807,3.7,3.7,3
+25,1797,some high school,64254,3.3,3.2,4
+29,2089,associate's degree,46093,3.9,3.4,5
+33,2190,master's degree,88066,4,3.8,5
+28,1913,high school,72890,3.5,3,5
+30,2084,master's degree,60542,4,3.3,5
+28,1965,some college,55937,3.8,3.2,6
+25,1924,some college,61445,3.5,3.4,3
+30,2068,bachelor's degree,78028,3.9,3.3,4
+35,2366,associate's degree,47287,4,3.5,5
+30,2058,associate's degree,85006,4,3.5,5
+28,1972,high school,30155,3.6,3.5,4
+33,2183,associate's degree,78059,4,3.6,8
+29,2112,bachelor's degree,66927,3.9,3.5,4
+25,1987,some college,71225,3.7,3.6,4
+29,2111,some college,88025,3.9,3.6,4
+30,2165,associate's degree,71615,4,3.5,8
+28,1942,high school,46019,3.8,3.4,5
+27,2063,master's degree,85553,4,3.7,3
+20,1608,some high school,22068,2.8,2.7,6
+27,1858,associate's degree,87625,3.4,3.7,3
+29,1953,high school,47558,3.7,3.5,4
+31,2147,some college,58622,4,3.3,4
+29,2010,high school,49923,3.8,3.4,6
+32,2133,some college,87530,4,3.6,4
+32,2180,some college,43207,4,3.4,5
+29,2088,bachelor's degree,77766,3.9,3.4,8
+31,2107,some high school,52653,4,3.2,6
+31,2061,master's degree,118989,3.9,3.5,4
+28,2028,high school,35836,3.6,3.3,9
+28,1907,high school,59330,3.6,2.9,9
+27,1862,high school,57643,3.5,3.1,5
+27,1887,associate's degree,78450,3.5,3.4,4
+27,1848,high school,81577,3.4,3.4,4
+26,1908,some college,35642,3.5,3.2,8
+32,2191,some college,61567,4,3.2,5
+30,2008,some high school,54647,3.8,3,5
+25,1722,some high school,31233,3.1,2.7,10
+26,1938,some college,75639,3.6,3.1,5
+27,1983,high school,51832,3.6,3.1,6
+30,1951,master's degree,91178,3.7,3.8,4
+30,2096,some college,75559,4,3.5,4
+29,2009,some college,76925,3.8,3.7,4
+27,1971,high school,65163,3.6,3.5,4
+26,1698,some high school,21693,3.1,2.8,6
+26,1876,some college,60782,3.5,3.3,4
+25,1809,high school,53205,3.2,3,5
+23,1693,some high school,67457,3.1,3.2,5
+28,1857,high school,90919,3.5,3.3,4
+30,2120,master's degree,84474,4,3.5,4
+30,2150,master's degree,90677,3.9,3.7,4
+29,2018,some high school,37103,3.7,2.9,6
+34,2349,master's degree,96281,4,3.6,5
+26,1806,high school,42594,3.2,3.3,5
+29,2042,high school,53314,3.8,3.4,6
+32,2230,some college,87672,4,3.6,5
+29,2011,master's degree,87878,3.7,3.6,3
+30,2032,high school,56946,3.9,3.5,4
+26,1965,some high school,58196,3.6,3.2,4
+32,2213,associate's degree,63353,4,3.4,5
+25,1850,master's degree,94537,3.4,3.4,4
+25,1763,some high school,52691,3.2,2.9,7
+24,1858,associate's degree,70951,3.5,3.4,4
+28,2021,some college,66483,3.8,3.4,4
+30,2093,associate's degree,84406,3.9,3.2,9
+29,1967,some college,92666,3.7,3.5,4
+28,2029,bachelor's degree,86592,3.8,3.4,6
+28,1910,associate's degree,64312,3.5,3.2,4
+29,2002,high school,39052,3.8,3,8
+22,1708,some high school,62473,3,3.2,4
+30,1944,some college,66367,3.7,3.7,3
+26,1823,high school,73136,3.3,3.6,3
+27,1965,high school,50732,3.7,3.1,5
+28,1949,some college,57523,3.8,3.3,5
+26,1956,some college,89273,3.5,3.4,4
+27,1822,high school,64070,3.3,3.2,4
+30,2055,high school,64220,3.9,3.5,4
+27,1921,some high school,41526,3.6,3.4,4
+34,2252,associate's degree,85873,4,3.3,8
+24,1787,some high school,80078,3.2,3,7
+32,2130,associate's degree,65608,4,3.8,3
+26,1756,high school,82890,3.1,3.2,4
+28,1876,some high school,26765,3.5,3,6
+24,1832,some college,74517,3.2,2.8,5
+28,1887,some high school,70911,3.5,3.6,3
+34,2028,high school,34307,4,3.4,5
+29,2071,associate's degree,76588,4,3.5,4
+31,2262,high school,67931,4,3.9,3
+26,1864,some high school,69374,3.3,3.2,4
+31,2171,bachelor's degree,74624,4,3.6,6
+26,1915,some college,47708,3.4,3.3,5
+31,2110,some college,86905,4,3.7,4
+23,1730,some college,79088,3.1,3.2,4
+24,1770,some high school,67819,3.2,2.9,5
+27,1880,high school,48219,3.4,3.2,5
+22,1632,some college,86108,3,3.2,4
+27,1894,some college,64409,3.6,3.2,8
+28,1979,some college,46444,3.7,3.2,6
+24,1851,bachelor's degree,63769,3.4,3.2,4
+29,2097,associate's degree,69144,3.9,3.2,6
+26,1937,associate's degree,77075,3.7,3.1,5
+26,1918,associate's degree,84055,3.5,3.1,5
+31,2111,associate's degree,72953,4,3.3,5
+31,2098,associate's degree,64111,4,3.2,6
+27,2008,bachelor's degree,98627,3.7,3.6,3
+29,2069,associate's degree,56945,3.9,3.4,4
+24,1806,high school,39618,3.2,3,6
+27,1796,high school,83890,3.4,3.4,4
+32,2207,master's degree,85878,4,3.6,4
+23,1782,some high school,46944,3.2,3.1,5
+28,2086,some college,51907,3.9,3.1,5
+22,1681,some college,56351,3,3.4,3
+33,2141,associate's degree,80407,4,3.6,4
+30,1982,high school,36619,3.8,3.3,8
+27,2033,associate's degree,83212,3.7,3.7,3
+32,2244,associate's degree,78061,4,3.6,4
+27,1982,associate's degree,70118,3.7,3.4,5
+33,2238,some college,74347,4,3.9,3
+20,1694,associate's degree,80617,3,3.3,4
+28,1971,high school,61184,3.6,3.3,4
+26,1848,high school,48558,3.4,3.3,5
+24,1800,associate's degree,84093,3.3,3.2,4
+29,2129,high school,52549,3.9,3.3,4
+29,1910,high school,44729,3.8,3.3,5
+32,2238,master's degree,72474,4,3.8,3
+34,2363,master's degree,77473,4,3.3,5
+32,2143,high school,56364,4,3.6,3
+31,2134,bachelor's degree,72768,4,3.4,5
+27,1895,some high school,46295,3.5,3.4,4
+29,2013,some high school,49006,3.9,3.1,7
+26,1943,some high school,33333,3.5,3.3,5
+28,2004,master's degree,90072,3.8,3.6,4
+30,1967,high school,85359,3.9,3.7,5
+33,2225,associate's degree,81539,4,3.5,4
+32,2171,master's degree,58603,4,3.6,4
+27,1853,high school,72142,3.5,3.1,5
+31,2092,bachelor's degree,80059,3.9,3.3,4
+25,1901,bachelor's degree,79227,3.5,3,6
+34,2226,high school,53749,4,3.7,5
+31,2193,bachelor's degree,71108,4,3.5,4
+34,2251,associate's degree,82072,4,3.8,3
+31,2075,high school,34111,3.9,3.2,6
+29,2031,associate's degree,63286,3.8,3.2,7
+27,1918,high school,62234,3.5,3.2,5
+28,2035,some college,80320,3.9,3.6,5
+29,2005,high school,52549,3.7,3.6,7
+28,1930,some high school,42407,3.7,3.1,5
+30,1985,high school,52614,3.7,3.5,3
+32,2015,some college,82577,4,3.4,6
+26,1737,some college,79784,3.3,2.9,7
+32,2160,high school,38335,4,3.8,4
+33,2076,some high school,31912,4,3.3,5
+29,1959,some college,63813,3.7,3.3,5
+29,2007,bachelor's degree,66357,3.9,3.4,4
+30,2021,associate's degree,59004,3.9,3.3,5
+30,2050,some high school,76968,3.9,3.5,4
+30,2067,high school,35618,3.8,3.3,7
+35,2385,master's degree,80609,4,3.6,4
+28,1988,some high school,59903,3.8,3.5,5
+33,2314,master's degree,100428,4,3.8,4
+31,2126,some high school,66851,3.9,3.3,5
+31,2083,bachelor's degree,81636,4,3.6,4
+32,2298,some college,59984,4,3.5,4
+27,1850,associate's degree,44588,3.5,3.5,4
+31,2121,master's degree,89924,4,3.4,6
+25,1808,some high school,49546,3.3,3.4,6
+27,1941,high school,75373,3.7,3.3,4
+26,1927,some high school,43886,3.5,3.4,4
+29,2040,master's degree,85883,3.8,3.3,6
+29,1965,some high school,53011,3.6,3.1,5
+29,2032,some high school,31567,3.8,3,6
+31,2144,associate's degree,75148,4,3.4,6
+28,1893,high school,73083,3.5,3.2,8
+31,1993,associate's degree,67003,3.9,3.4,4
+31,2126,bachelor's degree,81538,4,3.5,6
+31,2083,some high school,50718,4,3.2,5
+29,2018,some college,56317,3.9,3.2,6
+31,2049,master's degree,84720,4,3.8,5
+24,1818,some college,55436,3.1,3.3,4
+29,1977,associate's degree,61542,3.6,3.3,4
+28,1950,some high school,42932,3.7,3.3,5
+31,2146,high school,51450,4,3.6,3
+25,1809,some college,53982,3.3,3,5
+28,1875,some college,50275,3.4,3.3,6
+23,1729,some college,84008,3.1,3.2,4
+33,2133,associate's degree,68917,4,3.3,6
+27,1959,some college,64516,3.7,3.5,3
+27,1895,some high school,39502,3.5,3.1,7
+30,2026,high school,53769,3.8,3.2,6
+28,1956,high school,25617,3.7,3,6
+32,2089,some college,56364,4,3.2,5
+34,2349,master's degree,109654,4,3.8,4
+29,1981,some college,59565,3.8,3.3,4
+27,1911,associate's degree,59688,3.5,3.3,4
+32,2205,high school,60466,4,3.6,4
+28,1929,some college,81427,3.5,3.2,4
+25,1869,master's degree,87517,3.3,3.3,5
+31,2204,bachelor's degree,50665,4,3.4,4
+31,2150,high school,40013,4,3.4,6
+27,1897,master's degree,97789,3.6,3.7,3
+31,2079,associate's degree,61450,4,3.6,4
+28,1960,some college,77952,3.8,2.9,8
+29,1958,some college,70174,3.6,3.6,3
+27,1965,high school,51953,3.5,3.5,3
+27,1943,bachelor's degree,82909,3.6,3.4,7
+25,1956,some college,64730,3.5,3.1,6
+28,1892,associate's degree,65464,3.6,3.4,5
+23,1783,high school,43626,3.1,3,6
+30,2032,some college,43995,4,3.2,6
+29,2073,some high school,66481,3.8,3.1,5
+35,2318,bachelor's degree,52589,4,3.4,5
+28,2084,bachelor's degree,83638,3.9,3.3,5
+28,1860,some high school,64459,3.6,2.9,8
+27,1900,high school,68541,3.4,3.3,4
+30,2059,associate's degree,71283,4,3.8,3
+28,2065,bachelor's degree,93133,3.8,3.2,5
+28,1994,associate's degree,56549,3.7,3.7,4
+25,1826,bachelor's degree,84786,3.3,3.2,4
+27,1888,some college,67528,3.5,3.3,4
+32,2259,master's degree,110514,4,4,4
+31,2006,some high school,79454,3.9,3.6,6
+27,1899,associate's degree,72260,3.5,3.2,4
+30,2125,some college,91690,4,3.4,5
+30,2148,associate's degree,103454,4,3.9,4
+26,1908,some college,79534,3.5,3.2,5
+30,2048,some college,50812,4,3.2,7
+26,1918,some college,82517,3.6,3.4,4
+33,2222,high school,65458,4,3.6,4
+26,1801,some high school,33454,3.3,2.8,6
+31,2059,some high school,44034,4,3.4,5
+27,1858,some college,26848,3.3,3.1,6
+31,2024,bachelor's degree,84455,3.9,3.5,4
+30,1982,high school,75946,3.8,3.3,4
+33,2298,associate's degree,63096,4,3.5,7
+26,1907,associate's degree,80839,3.5,3.1,5
+28,2026,master's degree,108037,3.9,3.4,8
+30,2150,high school,48393,4,3.5,5
+30,2116,some high school,49348,4,3.4,5
+26,1884,high school,44485,3.4,3.3,5
+30,2079,master's degree,98252,4,3.6,6
+29,2143,some college,80679,3.9,3.4,5
+34,2282,master's degree,83338,4,3.3,5
+27,1873,some high school,55105,3.3,3.3,6
+29,2155,associate's degree,85153,4,3.4,9
+28,1964,high school,39663,3.6,3.3,6
+25,1763,some high school,63280,3.2,3.1,7
+30,2193,some college,48459,4,3,7
+31,2115,associate's degree,59131,4,3.5,6
+34,2108,high school,86692,4,4,3
+27,1817,some high school,48466,3.3,3.2,9
+32,2164,high school,74259,4,3.5,4
+34,2282,bachelor's degree,48097,4,3.6,7
+31,2169,master's degree,97545,4,3.5,5
+25,1861,associate's degree,68765,3.4,3.3,4
+32,2126,high school,71585,4,3,6
+24,1889,some high school,64787,3.4,3.2,4
+32,2219,associate's degree,83758,4,3.7,4
+28,1965,associate's degree,78461,3.7,3.3,4
+33,2225,associate's degree,77779,4,3.9,4
+28,1910,some high school,66871,3.7,3.2,7
+30,2129,some college,40394,4,3.1,6
+29,1968,high school,46521,3.7,3.3,5
+28,1983,associate's degree,62703,3.5,3.5,4
+22,1834,some high school,79630,3.2,3.4,4
+27,1897,high school,81054,3.5,3.5,6
+34,2323,master's degree,89141,4,3.7,4
+32,2098,some college,42566,4,3.3,8
+28,1887,associate's degree,63006,3.5,3.2,6
+31,2044,associate's degree,94412,3.9,3.8,7
+27,1852,some high school,55093,3.5,3.1,6
+32,2155,high school,18906,4,3.5,8
+29,1988,bachelor's degree,81961,3.7,3.4,6
+30,2109,bachelor's degree,98623,4,3.6,4
+33,2204,high school,61916,4,3.6,6
+30,1981,bachelor's degree,72572,3.7,3.6,3
+25,1750,high school,78459,3.3,3.5,4
+28,1908,some high school,54293,3.5,3.2,5
+26,1865,some high school,40267,3.4,2.9,8
+28,2000,high school,75673,3.9,3.4,6
+31,2102,some college,85721,4,3.5,6
+27,1945,high school,48537,3.5,3.3,6
+28,1927,high school,58702,3.6,3.3,4
+28,2000,bachelor's degree,70816,3.7,3.3,6
+31,2118,some college,68920,4,3.3,5
+31,2204,some college,73901,4,3.7,5
+28,2123,master's degree,82476,4,3.6,4
+27,1885,some high school,54088,3.6,3,5
+29,2015,high school,96832,3.6,3.4,6
+34,2374,bachelor's degree,50925,4,3.8,3
+31,2085,bachelor's degree,38866,4,3.3,5
+26,1817,some college,92025,3.3,3.6,4
+28,1976,high school,57798,3.7,3.5,4
+31,2033,master's degree,77510,3.9,3.3,4
+30,2074,high school,43020,3.8,3.1,6
+34,2246,some college,57397,4,3.1,5
+28,2028,some high school,68442,3.8,3.4,8
+24,1757,some high school,48225,3.1,3.3,4
+24,1804,high school,72775,3.1,2.9,5
+26,1899,high school,57917,3.3,3.2,5
+25,1968,associate's degree,78025,3.6,3.5,5
+30,2023,some college,63872,3.9,3.6,4
+26,1896,master's degree,92667,3.5,3.6,3
+33,2233,some college,60098,4,3.4,4
+28,1849,some college,29641,3.5,2.9,6
+32,2250,some college,75126,4,3.7,7
+26,1819,high school,56416,3.3,3.4,5
+33,2157,associate's degree,51253,4,3.7,3
+30,2177,associate's degree,75373,4,3.4,5
+26,1850,some college,62873,3.3,3.2,4
+33,2165,high school,84996,4,3.6,5
+28,2054,bachelor's degree,88598,3.8,3.3,5
+25,1738,high school,66814,3.2,3.2,6
+31,2166,bachelor's degree,72184,4,3.3,4
+27,2039,bachelor's degree,76601,3.9,3.6,6
+28,2018,some college,72571,3.9,3.4,4
+27,1901,associate's degree,64516,3.4,3.5,3
+28,1894,some high school,57339,3.7,3.2,4
+28,1900,associate's degree,71645,3.6,3.4,4
+30,2071,bachelor's degree,83717,3.9,3.5,4
+33,2213,associate's degree,63932,4,3.6,5
+29,2137,bachelor's degree,80557,4,2.8,7
+30,2035,associate's degree,83803,4,3.7,4
+28,2068,some high school,67571,3.8,3.4,6
+29,1938,high school,56982,3.8,3.4,5
+25,1786,associate's degree,60544,3.2,3.1,7
+29,2006,high school,38779,3.8,3.2,5
+30,2042,some college,35706,3.9,3.2,5
+30,2126,master's degree,112920,4,3.5,5
+30,2207,bachelor's degree,77114,4,3.3,5
+26,1846,some college,77271,3.4,3.4,8
+31,2163,some college,76445,4,3.3,5
+28,1924,some high school,44724,3.6,2.9,6
+29,1985,bachelor's degree,65944,3.8,3.3,4
+33,2149,high school,53977,4,3.6,5
+31,2112,bachelor's degree,97815,4,3.4,6
+31,2080,some college,63996,4,3.6,3
+32,2155,associate's degree,62304,4,3.4,5
+26,1837,high school,71226,3.4,3.2,5
+28,2002,bachelor's degree,79155,3.8,3.1,7
+34,2242,high school,89887,4,3.8,4
+33,2171,associate's degree,59147,4,3.4,5
+32,2234,some college,30658,4,3,10
+27,1930,some college,59443,3.6,3.2,4
+32,2117,associate's degree,94415,4,3.8,4
+32,2034,some high school,31713,3.9,3.2,8
+34,2268,bachelor's degree,93832,4,3.8,6
