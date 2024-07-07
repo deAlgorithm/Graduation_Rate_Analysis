@@ -45,7 +45,7 @@ From the imported dataset, the dataframe consists of the following columns:
 ### How to Use This Repository
 1. Clone the repository:
    ```bash
-   git clone https://github.com/deAlgorithm/graduation-rate-analysis.git
+   git clone https://github.com/deAlgorithm/graduation_rate.git
    ```
 2. Install dependencies:
    ```bash
@@ -64,7 +64,7 @@ From the imported dataset, the dataframe consists of the following columns:
    
    ![Parental Education Impact 2](https://github.com/deAlgorithm/graduation_rate/assets/131563995/cc0c039e-4d4f-4f7b-8edf-78f4af56e69e)
 
-   The analysis shows that parental level of education has a noticeable impact on students' GPAs. Specifically, the box plots illustrate that students whose parents have higher levels of education, such as associate's degrees or master's degrees, tend to have higher high school and college GPAs on average. This trend suggests that parental education level could be a significant factor influencing academic performance.
+   The analysis shows that parental level of education has a noticeable impact on students' GPAs. Specifically, the box plots illustrate that students whose parents have higher levels of education, such as associate's degrees or master's degrees, tend to have higher high school and college GPAs on average. This trend suggests that parental education level could significantly influence academic performance.
 
 3. **Is there a correlation between parental income and students' academic performance?**
 
@@ -75,10 +75,10 @@ From the imported dataset, the dataframe consists of the following columns:
    
    ![Parental School GPA Correlation](https://github.com/deAlgorithm/graduation_rate/assets/131563995/083fc732-18fd-40fd-ba13-7548e8758d61)
    ```
-   The correlation between parental school GPA and college GPA is 0.46.
+   The correlation between parental income  and college GPA is 0.46.
    ```
 
-   While there is a positive correlation between both parental income and parental school GPA with students' college GPA, the correlation is stronger for parental school GPA. This implies that parental academic performance (as measured by their GPA) might be a better predictor of their children's academic performance than parental income.
+While there is a positive correlation between parental income and student's high school GPA (0.27), the correlation is stronger between parental income and the student's college GPA (0.46). This implies that parental income might better predict their children's academic performance in college than in high school
 
 4. **What is the average number of years taken to graduate?**
    ```
@@ -86,9 +86,9 @@ From the imported dataset, the dataframe consists of the following columns:
    ```
 
 5. **How do high school GPA and college GPA correlate?**
-   ```
-   The correlation between high school GPA and college GPA is 0.52.
-   ```
+ ```
+The correlation between high school GPA and college GPA is 0.52. This suggests a moderate positive relationship between the two, indicating that students who perform well in high school are likely to also perform well in college, though it is not a perfect predictor
+ ```
 
 6. **How does the GPA ratio (college GPA / high school GPA) vary across different parental education levels?**
    
